@@ -28,5 +28,17 @@ _This is a still an italic text_\
 >[!WARNING]
 > This a warning for github ReadMe
 > 
-This is for a github repo link [click me] (https://github.com/IJSE-dep13-playground/syntaxes-md)
-![Github octodox] (https://octodex.github.com/images/orderedlistocat.png)
+This is for a github repo link [click me] (https://github.com/IJSE-dep13-playground/syntaxes-md)\
+![Cotocat image of github](https://octodex.github.com/images/orderedlistocat.png)
+
+Some usual git commands
+```aiignore
+git init
+git add .
+git status
+git branch
+git diff
+git commit -m "message"
+git remote add origin [URL]
+git push -u origin main
+```
