@@ -18,3 +18,8 @@ This is a bold and italic text <br>
 __This is a still bold text__<br>
 _This is a still an italic text_\
 ***This a a bold and italic text***
+
+>[!Note]
+> This a Note for github ReadMe
+>[!Tip]
+> This a Tip for github ReadMe
