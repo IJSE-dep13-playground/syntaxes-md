@@ -42,3 +42,14 @@ git commit -m "message"
 git remote add origin [URL]
 git push -u origin main
 ```
++ List markdowns
+- [!Note]
+- ** for bold
+- *for italic
+
+
+- [x] #739
+- [ ] new line was add
+- [ ] Add delight to the experience when all tasks are complete 
+
+
